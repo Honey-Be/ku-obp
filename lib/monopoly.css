@@ -1,87 +1,87 @@
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Regular.ttf);
+    src: url(./fonts/JosefinSans-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-SemiBold.ttf);
+    src: url(./fonts/JosefinSans-SemiBold.ttf);
     font-weight: 500;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Bold.ttf);
+    src: url(./fonts/JosefinSans-Bold.ttf);
     font-weight: 600;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Bold.ttf);
+    src: url(./fonts/JosefinSans-Bold.ttf);
     font-weight: 700;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Bold.ttf);
+    src: url(./fonts/JosefinSans-Bold.ttf);
     font-weight: 800;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Bold.ttf);
+    src: url(./fonts/JosefinSans-Bold.ttf);
     font-weight: 900;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Light.ttf);
+    src: url(./fonts/JosefinSans-Light.ttf);
     font-weight: 200;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-ExtraLight.ttf);
+    src: url(./fonts/JosefinSans-ExtraLight.ttf);
     font-weight: 100;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Thin.ttf);
+    src: url(./fonts/JosefinSans-Thin.ttf);
     font-weight: 300;
 }
 
 @font-face {
     font-family: "Josefin Sans";
-    src: url(./assets/fonts/JosefinSans-Thin.ttf);
+    src: url(./fonts/JosefinSans-Thin.ttf);
     font-weight: 300;
 }
 
 @font-face {
     font-family: "Courier Prime";
-    src: url(./assets/fonts/CourierPrime-Regular.ttf);
+    src: url(./fonts/CourierPrime-Regular.ttf);
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Courier Prime";
-    src: url(./assets/fonts/CourierPrime-Bold.ttf);
+    src: url(./fonts/CourierPrime-Bold.ttf);
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Courier Prime";
-    src: url(./assets/fonts/CourierPrime-BoldItalic.ttf);
+    src: url(./fonts/CourierPrime-BoldItalic.ttf);
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: "Courier Prime";
-    src: url(./assets/fonts/CourierPrime-Italic.ttf);
+    src: url(./fonts/CourierPrime-Italic.ttf);
     font-weight: 400;
     font-style: normal;
 }

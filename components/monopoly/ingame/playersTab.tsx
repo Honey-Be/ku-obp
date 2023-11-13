@@ -3,10 +3,10 @@ import { Socket } from "socket.io-client"
 import { Player } from "@/lib/monopoly-player";
 import { translateGroup } from "./streetCard";
 import monopolyJSON from "@/lib/monopoly.json";
-import { getIcon } from "@/lib/monopoly-utils.js";
-import { MonopolyCookie, MonopolySettings } from "@/lib/monopoly-types.js";
+import { getIcon } from "@/lib/monopoly-utils";
+import { MonopolyCookie, MonopolySettings } from "@/lib/monopoly-types";
 // @ts-ignore
-import { CookieManager } from "../../assets/CookieManager.ts";
+import { CookieManager } from "@/lib/monopoly-cookieManager";
 interface PlayersTabProps {
     socket: Socket;
     players: Array<Player>;
